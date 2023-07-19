@@ -1,5 +1,5 @@
 ## Future Projects
-ff
+
 ### Locations tracker 🚗📱 
 ### Ideas/projects tracker 📝💻📈
 <!--
