@@ -2,6 +2,7 @@
 
 ### Locations tracker 🚗📱 
 ### Ideas/projects tracker 📝💻📈
+### Rating Bot ⭐🤖
 <!--
 **pablo-lnx/pablo-lnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
